@@ -1,4 +1,4 @@
-//const camelCase = require('camelcase');
+//const camelCase = require('camelcase'); - old way
 
 import camelCase from 'camelcase';
 
